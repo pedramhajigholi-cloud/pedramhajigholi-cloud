@@ -26,7 +26,7 @@ An automation I built for myself: finds, ranks, and shortlists Nordic tech roles
 ## How I work
 
 - **Ship to learn.** I'd rather have something rough in real use this week than a perfect plan next month.
-- **Make trade-offs explicit.** Every shortcut is a decision, not an accident — voice before personalisation, LLM ranking over keyword filtering. I want to be able to explain why.
+- **Make trade-offs explicit.** Every shortcut is a decision, not an accident - voice before personalisation, LLM ranking over keyword filtering. I want to be able to explain why.
 - **Stay close to the user.** I test on real people early and let what they actually notice steer the roadmap.
 - **Use AI tooling pragmatically.** I reach for what gets me to working software fastest, then refactor when something actually hurts.
 
